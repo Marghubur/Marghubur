@@ -44,35 +44,6 @@ I'm Marghubur Rahman Ansari, a passionate software developer with a knack for bu
 
 [![](https://visitcount.itsvg.in/api?id=Marghubur&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
-<div align="center">
-<a href="https://ossinsight.io">
-  <img src="/web/static/img/screenshots/homepage.gif" height="360" &#x3c;="" a="">
-</a></div><a href="https://ossinsight.io">
-</a><h4 align="center"><a href="https://ossinsight.io">
-  <b></b></a><b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
-  •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
-  •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
-  •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
-  •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
-  •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://ossinsight.io/blog">Blog</a>
-  •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
-</h4>
-<h2 id="introduction">Introduction</h2>
-<p>OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data.</p>
-<p><a href="https://www.youtube.com/watch?v=6ofDBgXh4So&amp;t=1s">🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software</a></p>
-<h2 id="embed-real-time-widget-in-repos--personal-readmemd-within-30s">Embed Real-time Widget in Repo’s / Personal README.md within 30s!</h2>
-<p>For all charming widgets, please <a href="https://next.ossinsight.io/widgets?utm_source=github&amp;utm_medium=referral">Check it out 👉</a>, here are some examples:</p>
 
 
 
