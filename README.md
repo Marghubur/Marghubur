@@ -1,7 +1,6 @@
 # 💫 About Me:
-## Hello there! 👋
 
-I'm Marghubur Rahman Ansari, a passionate software developer with a knack for building dynamic applications. My GitHub profile is a testament to my love for coding, showcasing a diverse skill set and commitment to contributing to various projects.
+Hey there! I'm Marghubur, a passionate software developer with a strong interest in building dynamic applications. My GitHub journey has been defined by continuous learning and exploration of various technologies such as HTML, CSS, JavaScript, C#, .NET Core, Angular, Java, and MySQL. I believe in the power of collaboration and actively contribute to a wide range of projects to enhance my skills and knowledge.
 
 
 ## 🌐 Socials:
